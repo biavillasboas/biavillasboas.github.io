@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bia Villas Bôas</title>
+    <link>https://biavillasboas.github.io/</link>
+    <description>Recent content on Bia Villas Bôas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright><atom:link href="https://biavillasboas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://biavillasboas.github.io/about/</link>
+      <pubDate>Wed, 14 Oct 2020 19:22:03 -0700</pubDate>
+      
+      <guid>https://biavillasboas.github.io/about/</guid>
+      <description>Bia Villas Bôas is a postdoctoral scholar at Scripps Institution of Oceanography. She is interested in better understanding how surface gravity waves interact with other processes in the upper-ocean and the overlying atmosphere. Bia has a Ph.D. in oceanography from Scripps. During her Ph.D., she was a NASA Earth and Space Science fellow and her thesis work explored, observations, theory, and modeling of interactions between winds, current, and, waves. Currenlty, her research focuses on wave-current interactions at meso and sub-mesoscales and on how surface waves impact remote sensing measurements.</description>
+    </item>
+    
+  </channel>
+</rss>
